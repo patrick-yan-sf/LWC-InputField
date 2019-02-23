@@ -1,6 +1,6 @@
 # Lightning Web Component - Simple Input Field
 To install this you can use the following unmanaged package URL
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1U0000061vub
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1U0000061vug
 
 It will install the Lightning Component into your org.
 
